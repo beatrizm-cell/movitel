@@ -23,15 +23,13 @@ const correctAnswers = {
 
 // Províncias e distritos de Moçambique
 const provinciasDistritos = {
-  maputo_cidade: [
+  maputo: [
     "KaMpfumo", 
     "KaMaxakeni", 
     "KaMavota", 
     "KaMubukwana", 
     "KaTembe", 
-    "KaNyaka"
-  ],
-  maputo_provincia: [
+    "KaNyaka",
     "Matola",
     "Boane",
     "Marracuene",
